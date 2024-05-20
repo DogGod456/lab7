@@ -1,0 +1,502 @@
+.android-large-1 {
+  background-color: var(--white);
+  padding: 0 2px 0 0;
+  position: relative;
+}
+.rectangle-1 {
+  width: 359px;
+  height: 800px;
+  background: linear-gradient(
+    270deg,
+    rgba(255, 255, 255, 0.05) -76%,
+    rgba(97, 0, 255, 0.05) 100%
+  );
+  position: relative;
+}
+
+.rectangle-2 {
+  width: 142px;
+  height: 116px;
+  position: absolute;
+  left: 19px;
+  top: 35px;
+  border-radius: 12px;
+}
+.group-2 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 10px;
+  top: 159px;
+}
+.rich-tooltip {
+  width: 160px;
+  height: 36px;
+  background-color: var(--white-smoke);
+  border-radius: 12px;
+  padding: 0 0 8px;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+.num-7-800-555-35-35-aboba-abobichbovix-ab {
+  height: 27px;
+  width: 90px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 29px;
+  top: 7px;
+  letter-spacing: 0.6px;
+  cursor: pointer;
+  font-size: 9px;
+}
+.phone-light {
+  position: absolute;
+  left: 2px;
+  top: 10px;
+}
+.group-1 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 10px;
+  top: 213px;
+}
+.rectangle-1-two {
+  width: 106px;
+  height: 4px;
+  background-color: var(--dodger-blue);
+  border-radius: 100px;
+  position: absolute;
+  right: 12px;
+  top: 10px;
+}
+.rectangle-16 {
+  width: 55px;
+  height: 4px;
+  background-color: var(--dodger-blue);
+  border-radius: 100px;
+  position: absolute;
+  left: 42px;
+  top: 27px;
+}
+.num-100 {
+  height: 9px;
+  width: 15px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 12px;
+  top: 5px;
+  font-size: 9px;
+}
+.num-50 {
+  height: 9px;
+  width: 15px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 60px;
+  top: 20px;
+  font-size: 9px;
+}
+.russian {
+  height: 9px;
+  width: 31px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 11px;
+  top: 5px;
+  font-size: 9px;
+}
+.english {
+  height: 9px;
+  width: 31px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 11px;
+  top: 20px;
+  font-size: 9px;
+}
+.group-3 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 10px;
+  top: 267px;
+}
+.rich-tooltip-two {
+  width: 160px;
+  height: 91px;
+  background-color: var(--white-smoke);
+  border-radius: 12px;
+  padding: 0 0 8px;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+.python-two {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/45ed7d8f-aeb6-4d6e-8d64-8f39c52f85a8.svg");
+  padding: 3.79px 3.63px 3.59px 3.67px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 9px;
+  top: 7px;
+}
+.python {
+  width: 15.7px;
+  height: 15.62px;
+}
+.c-two {
+  width: calc(14.38% - 6.44px);
+  height: calc(23.23% - 4.36px);
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/a67e88ab-3849-426d-96ed-efe82a9e1cd6.svg");
+  padding: 2.2px 3.22px 2.16px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 9px;
+  top: 36px;
+}
+.c {
+  padding: 0 0 4.66px;
+  position: relative;
+}
+.vector {
+  width: 97.46%;
+  height: 50%;
+  position: absolute;
+  left: 0.21px;
+  bottom: 0;
+}
+.vector-two {
+  width: 62.2%;
+  height: 59.23%;
+  position: absolute;
+  left: 2.76px;
+  top: 3.8px;
+}
+.flex-wrapper-one {
+  padding: 0 0.21px 0 0;
+  position: relative;
+}
+.vector-three {
+  width: 50%;
+  height: 66.67%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.vector-four {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.vector-five {
+  width: 11.11%;
+  height: 13.16%;
+  position: absolute;
+  right: 2.76px;
+  bottom: 3.74px;
+}
+.vector-six {
+  width: 11.11%;
+  height: 13.16%;
+  position: absolute;
+  right: 0.46px;
+  bottom: 3.74px;
+}
+.git {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 9px;
+  top: 67px;
+}
+.python-programming {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 38px;
+  top: 12px;
+  font-size: 9px;
+}
+.c-programming {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 38px;
+  top: 43px;
+  font-size: 9px;
+}
+.project-management {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 38px;
+  top: 72px;
+  font-size: 9px;
+}
+.group-4 {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 10px;
+  top: 376px;
+}
+.rich-tooltip-three {
+  width: 160px;
+  height: 26px;
+  background-color: var(--white-smoke);
+  border-radius: 12px;
+  padding: 0 0 8px;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+.group-duotone-line {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+.seo-top-manager {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 33px;
+  top: 3px;
+  font-size: 9px;
+}
+.group-5 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 10px;
+  bottom: 281px;
+}
+.mortarboard-alt-light {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 6px;
+  top: 5px;
+}
+.studying {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 32px;
+  top: 5px;
+  font-size: 9px;
+}
+.working {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 32px;
+  top: 30px;
+  font-size: 9px;
+}
+.sleeping {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 32px;
+  top: 60px;
+  font-size: 9px;
+}
+.desk-alt-light {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 6px;
+  top: 31px;
+}
+.moon-alt-light {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 6px;
+  top: 59px;
+}
+.group-6 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: 8px;
+  top: 39px;
+}
+.rich-tooltip-four {
+  width: 163px;
+  height: 133px;
+  background-color: var(--white-smoke);
+  border-radius: 12px;
+  padding: 0 0 8px;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+  left: -870px;
+}
+.about-me {
+  height: 9px;
+  width: 114px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: -860px;
+  top: 10px;
+  font-family: var(--dm-sans-18-regular-family);
+  font-size: var(--dm-sans-18-regular-size);
+  font-weight: var(--dm-sans-18-regular-weight);
+  line-height: var(--dm-sans-18-regular-line-height);
+}
+.zanimajus-programmirovaniem-v-bol-shej-s {
+  font-size: 9px;
+  height: 5px;
+  width: 114px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: -860px;
+  top: 70px;
+
+}
+.group-9 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: 8px;
+  top: 188px;
+}
+.group-7 {
+  position: relative;
+  left: -870px;
+}
+.rich-tooltip-five {
+  
+  width: 163px;
+  height: 125px;
+  background-color: var(--white-smoke);
+  border-radius: 12px;
+  padding: 0 0 8px;
+  box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.15),
+    0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+  left: -870px;
+  
+}
+.education {
+  height: 8.81px;
+  width: 114px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 17px;
+  top: 10px;
+  font-size: 9px;
+}
+.algoritmika-razrabotchik-sputnikov-xu-cu {
+  height: 95.24px;
+  width: 129px;
+  color: var(--black);
+  display: flex;
+  position: absolute;
+  left: 17px;
+  top: 15px;
+  bottom: 1.8px;
+  font-size: 9px;
+}
+.group-8 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.book-light {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: -860px;
+  top: 13px;
+}
+.group-10 {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: 8px;
+  top: 329px;
+}
+.lable-light {
+  position: absolute;
+  left: 11px;
+  top: 14px;
+}
+.group-12 {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 880px;
+  bottom: 292px;
+}
+.c-three {
+  width: calc(14.38% - 6.44px);
+  height: calc(67.65% - 4.36px);
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/8d120027-3077-4946-8376-c18bea0846ed.svg");
+  padding: 2.2px 3.22px 2.16px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 11px;
+  top: 5px;
+}
+.c-four {
+  height: 9px;
+  width: 62px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 40px;
+  top: 3px;
+  font-size: 9px;
+}
